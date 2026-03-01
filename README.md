@@ -47,13 +47,11 @@ a phishing email template was configuired to direct the target to the landing pa
 ### 5) Configure Sending Profile & Target Group
 A sending profile and target group were created for test delivery in the lab. 
 ![Sending Profile](screenshots/06-sending-profile.png)
-![Group Created](screenshots/07-group-created.png)
 
 ---
 
 ### 6) launch Campaign & review Metrics
 A campaign was launch to a test target and GoPhish analytics were review (sent/clicked/submitted data).
-![Campaign Launch](screenshots/08-campaign-launch.png)
 ![Email Clicked](screenshots/09-email-clicked.png)
 ![Credentials captured](screenshots/10-crendetials-captured.png)
 ![Final photo](screenshots/11-final.png)
