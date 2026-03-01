@@ -53,7 +53,7 @@ A sending profile and target group were created for test delivery in the lab.
 ### 6) launch Campaign & review Metrics
 A campaign was launch to a test target and GoPhish analytics were review (sent/clicked/submitted data).
 ![Email Clicked](screenshots/09-email-clicked.png)
-![Credentials captured](screenshots/10-crendetials-captured.png)
+![Credentials captured](screenshots/10-credentials-captured.png)
 ![Final photo](screenshots/11-final.png)
 
 ---
