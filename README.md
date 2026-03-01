@@ -46,7 +46,6 @@ a phishing email template was configuired to direct the target to the landing pa
 
 ### 5) Configure Sending Profile & Target Group
 A sending profile and target group were created for test delivery in the lab. 
-![Sending Profile](screenshots/06-sending-profile.png)
 
 ---
 
